@@ -1,4 +1,4 @@
-const baseUrl = "https://phoshco.github.io/"; keep orignal for now/";
+const baseUrl = "https://phoshco.github.io/"; //keep orignal for now/";
 // for use loading screen, we need to import following module.
 import "@babylonjs/core/Loading/loadingScreen";
 // for cast shadow, we need to import following module.
